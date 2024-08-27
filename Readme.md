@@ -43,7 +43,9 @@ Contact Details
 For inquiries, collaboration opportunities, or support, please contact:
 
 Your Name: prcpcm@gmail.com
+
 LinkedIn:https://www.linkedin.com/in/priyanshu-raj-chauhan-30aa28234/
+
 GitHub: github.com/hyrex123
 
 Acknowledgments
