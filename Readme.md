@@ -6,7 +6,6 @@ The vision of the NFT Diplomas project is to revolutionize the way educational c
 
 ## Flowchart
 
-![Flowchart](https://example.com/flowchart.png)  *(Replace with the actual flowchart image URL)*
 
 1. **Student Graduation:** The institution initiates the diploma issuance process upon student graduation.
 2. **Issue Diploma:** The institution mints an NFT diploma using the smart contract and assigns it to the graduate’s wallet address.
@@ -45,7 +44,8 @@ This project was made possible with the support of the blockchain community, the
 This README provides an overview of the NFT Diplomas project, detailing its vision, operational flow, contract information, and future developments. It serves as a comprehensive guide for users and collaborators interested in the project.
 
 Contact Details
-Your Name: prcpcm@gmail.com
+Your Name: Priyanshu Raj Chuahan
+EMail: prcpcm@gmail.com
 
 LinkedIn:https://www.linkedin.com/in/priyanshu-raj-chauhan-30aa28234/
 
