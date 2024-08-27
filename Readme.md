@@ -6,6 +6,7 @@ The vision of the NFT Diplomas project is to revolutionize the way educational c
 
 ## Flowchart
 
+![image](https://github.com/user-attachments/assets/0c0f63bb-68b7-48e3-bbba-9a6eb2f81601)
 
 1. **Student Graduation:** The institution initiates the diploma issuance process upon student graduation.
 2. **Issue Diploma:** The institution mints an NFT diploma using the smart contract and assigns it to the graduate’s wallet address.
