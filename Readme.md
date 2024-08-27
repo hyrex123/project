@@ -1,4 +1,5 @@
-# NFT Diplomas
+# NFT ![image](https://github.com/user-attachments/assets/dd176be5-9529-4b9b-b534-4030a67a46c0)
+Diplomas
 
 ## Vision
 
