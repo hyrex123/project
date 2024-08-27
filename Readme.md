@@ -45,5 +45,6 @@ For inquiries, collaboration opportunities, or support, please contact:
 Your Name: prcpcm@gmail.com
 LinkedIn:https://www.linkedin.com/in/priyanshu-raj-chauhan-30aa28234/
 GitHub: github.com/hyrex123
+
 Acknowledgments
 This project was made possible with the support of the blockchain community, the open-source tools provided by OpenZeppelin, and the guidance of academic institutions committed to innovation in education.
