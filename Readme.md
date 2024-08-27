@@ -45,8 +45,10 @@ This project was made possible with the support of the blockchain community, the
 
 This README provides an overview of the NFT Diplomas project, detailing its vision, operational flow, contract information, and future developments. It serves as a comprehensive guide for users and collaborators interested in the project.
 
-Contact Details
+Contact Details:
+
 Your Name: Priyanshu Raj Chuahan
+
 EMail: prcpcm@gmail.com
 
 LinkedIn:https://www.linkedin.com/in/priyanshu-raj-chauhan-30aa28234/
